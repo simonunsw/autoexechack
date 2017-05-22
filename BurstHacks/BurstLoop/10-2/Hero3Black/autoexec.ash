@@ -1,4 +1,4 @@
-sleep X
+sleep 60
 t app appmode photo_burst
 sleep 1
 t app burst_settings 10-2
